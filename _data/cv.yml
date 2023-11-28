@@ -24,16 +24,36 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Research Engineer
+      institution: Center for Visual Information Technology (CVIT)
+      year: 2022 - Present
+      maindescription: Research assistant and lead engineer to Prof. Vineet Gandhi, pursuing research interests in computer vision and speech synthesis
+      description:
+        - title: Multi-Player Tracking for Star Sports
+          contents:
+            - Contributed to building a player-tracking solution for Disney-owned Star Sports, to perform real-time tracking of outfield players in Cricket and display field plots to enrich viewing experience during the live broadcast. 
+            - Became the lead engineer to further develop the product and improved tracking metrics by implementing OC-SORT and established a CI/CD pipeline for hassle-free deployment using docker containers. 
+            - Highly successful run in Asia Cup 2023, where the field plots were broadcast to over 15 million people watching concurrently. 
+        - title: Speech Synthesis and Accesibility
+          contents: 
+          - Worked on speech synthesis problems by exploring different input modalities like text, lip sequences etc. 
+          - Our work on text-to-speech, ParrotTTS, has been submitted to Computer Speech and Language journal for review. We propose disentangling speech synthesis from processing input text by introducing self-supervised speech features as an intermediary space. 
+          - Co-authored a paper, RobustL2S, on the lip-to-speech problem that extends this framework and achieves SOTA results. Published in APSIPA '23.
+          - Explored the problem of speech synthesis for people with speech disorders, using flesh-conducted vibrations called Non-Audible Murmurs (NAMs) as input. This is currently in progress, and is being submitted to ACM Transactions on Computer Human Interaction.
+        - title: Apple Factory Operations Action Recognition
+          contents:
+            - Led the industrial collaboration with Apple Inc. on fine-grained temporal action localization on videos of factory workers in the iPhone assembly line. 
+            - Implemented a single-shot solution for the same and added anomaly detection to highlight missing steps from standard operating procedure, helping them flag devices for easier inspection. 
+            - Exceeded benchmark targets on detection and localization, achieving over 90% on accuracy and IoU metrics.
     - title: Senior Software Engineer
       institution: Zenoti
       year: 2018 - 2022
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+      maindescription: Full-stack developer in a SaaS platform that provides end-to-end software for clients in beauty and healthcare industries.
+      description: 
+        - Contributed to building Smart Marketing module, an expert system that automates user engagement strategies based on constantly monitored business criteria. Extremely successful and has a distinct revenue stream. 
+        - Implemented Single Sign-On (SSO) in a provider-agnostic pattern. Developed end-to-end piples in user engagement through their abandoned shopping carts.
+        - Optimization of server-side APIs, reducing latency from over 1s to under 300ms. Significantly sped-up underlying SQL procedures as well. Extended optimization efforts to the notifications delivery pipeline by improving scalability and modularization.
+        - Wrote a smart scheduler that systematically reorganizes existing appointments and seamlessly accomodates incoming requests for therapist services, optimizing for maximal therapist utilization, cost-per-service for the customer and overall service duration.
 
 # - title: Open Source Projects
 #   type: time_table
