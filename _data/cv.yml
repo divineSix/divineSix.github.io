@@ -13,7 +13,7 @@
   contents:
     - title: Computer Science, B.Engg (Hons)
       institution: Birla Institute of Technology and Science (BITS), Hyderabad
-      year: 2018
+      year: 2014-2018
       # description:
       #   - Description 1.
       #   - Description 2.
@@ -24,12 +24,18 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Lab Developer
+      institution: Alston Elliot Live
+      maindescription: Research Engineer spearheading the development of vision-centric proof-of-concepts in the sports broadcast space, independently executing projects end-to-end to drive product innovation.
+      description:
+        - title: Generating Vertical Feeds for Mobile Consumption
+        - maindescription: Architected and developed a complete media pipeline to automatically convert 16:9 broadcast feeds into mobile-friendly 9:16 verticals by autonomously tracking and reframing the region-of-interest with upwards of 30 FPS.  
     - title: Research Engineer
       institution: Center for Visual Information Technology (CVIT)
-      year: 2022 - Present
+      year: May 2022 - October 2024
       maindescription: Research assistant and lead engineer to Prof. Vineet Gandhi, pursuing research interests in computer vision and speech synthesis
       description:
-        - title: Multi-Player Tracking for Star Sports
+        - title: Player Tracking for Star Sports
           contents:
             - Contributed to building a player-tracking solution for Disney-owned Star Sports, to perform real-time tracking of outfield players in Cricket and display field plots to enrich viewing experience during the live broadcast. 
             - Became the lead engineer to further develop the product and improved tracking metrics by implementing OC-SORT and established a CI/CD pipeline for hassle-free deployment using docker containers. 
