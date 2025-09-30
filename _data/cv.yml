@@ -26,10 +26,11 @@
   contents:
     - title: Lab Developer
       institution: Alston Elliot Live
+      year: October 2024 - PRESENT
       maindescription: Research Engineer spearheading the development of vision-centric proof-of-concepts in the sports broadcast space, independently executing projects end-to-end to drive product innovation.
       description:
         - title: Generating Vertical Feeds for Mobile Consumption
-        - maindescription: Architected and developed a complete media pipeline to automatically convert 16:9 broadcast feeds into mobile-friendly 9:16 verticals by autonomously tracking and reframing the region-of-interest with upwards of 30 FPS.  
+        - description: Architected and developed a complete media pipeline to automatically convert 16:9 broadcast feeds into mobile-friendly 9:16 verticals by autonomously tracking and reframing the region-of-interest with upwards of 30 FPS. 
     - title: Research Engineer
       institution: Center for Visual Information Technology (CVIT)
       year: May 2022 - October 2024
